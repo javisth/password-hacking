@@ -1,7 +1,7 @@
 import bcrypt
 import time
 
-fn = open("/Users/javisth/Documents/CS260/student_pwd.txt", "r")
+fn = open("student_pwd.txt", "r")
 letters = "abcdefghijklmnopqrstuvwxyz"
 arr = []
 arr2 = []
